@@ -1,0 +1,9 @@
+{
+  "name": "ambition",
+  "version": "1.0.0",
+  "description": "大规模软件开发全生命周期管理：DISCOVER → DEFINE → PROTOTYPE → BREAKDOWN → TRACK → REPORT 六阶段工作流",
+  "author": {
+    "name": "ZyanZealous",
+    "email": "info@zyanzealous.com"
+  }
+}
