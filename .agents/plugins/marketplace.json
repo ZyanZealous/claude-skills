@@ -1,0 +1,19 @@
+{
+  "name": "zyan-skills",
+  "interface": {
+    "displayName": "Zyan Skills"
+  },
+  "plugins": [
+    {
+      "name": "ambition",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ambition"
+      },
+      "policy": {
+        "installation": "AVAILABLE"
+      },
+      "category": "Engineering"
+    }
+  ]
+}

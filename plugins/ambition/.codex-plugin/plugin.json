@@ -1,0 +1,30 @@
+{
+  "name": "ambition",
+  "version": "1.0.0",
+  "description": "大规模软件开发全生命周期管理：DISCOVER → DEFINE → PROTOTYPE → BREAKDOWN → TRACK → REPORT 六阶段工作流",
+  "author": {
+    "name": "ZyanZealous"
+  },
+  "homepage": "https://github.com/ZyanZealous/claude-skills",
+  "repository": "https://github.com/ZyanZealous/claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "workflow",
+    "prd",
+    "requirements",
+    "sprint",
+    "project-management"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Ambition",
+    "shortDescription": "六阶段开发全生命周期管理",
+    "longDescription": "大规模软件开发全生命周期管理：DISCOVER（需求采集）→ DEFINE（PRD/用户故事）→ PROTOTYPE（原型）→ BREAKDOWN（需求拆分）→ TRACK（状态管理）→ REPORT（进度汇报）。支持自动规划和自定义两种模式。",
+    "developerName": "ZyanZealous",
+    "category": "Engineering",
+    "capabilities": [
+      "Read",
+      "Write"
+    ]
+  }
+}
