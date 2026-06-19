@@ -8,7 +8,7 @@
     {
       "name": "ambition",
       "source": "./plugins/ambition",
-      "description": "大规模软件开发全生命周期管理：DISCOVER → DEFINE → PROTOTYPE → BREAKDOWN → TRACK → REPORT 六阶段，支持自动规划和自定义两种模式"
+      "description": "大规模软件开发全生命周期管理：DISCOVER → DEFINE → PROTOTYPE → BREAKDOWN → TRACK → REPORT 六阶段，支持自动规划、自定义流程、多 agent 调度与轮询收敛执行"
     }
   ]
 }
